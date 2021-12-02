@@ -1,5 +1,8 @@
 ---
 description: Algorand Message Standard for public voting
+cover: >-
+  https://images.unsplash.com/photo-1591848478625-de43268e6fb8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxkZW1vY3JhY3l8ZW58MHx8fHwxNjM4NDc3MTUz&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Introduction

@@ -1,5 +1,8 @@
 ---
 description: Use vote coin standard to manage your DAO.
+cover: >-
+  https://images.unsplash.com/photo-1596461009523-7d647a4e2399?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHx3aXNkb218ZW58MHx8fHwxNjM4NDc2MTY3&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Vote Coin

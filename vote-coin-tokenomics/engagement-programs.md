@@ -1,0 +1,38 @@
+---
+description: Are you interested to earn Vote Coins?
+---
+
+# Engagement Programs
+
+To claim your engagement program bounty, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScIhdH90AM0xoA3ISbHwea74YHlq-32I1QV4orUBd0Yc0x42w/viewform?usp=sf\_link).
+
+### Academic paper
+
+Bounty: 100,000 Vote Coins
+
+Requirement: Write academic paper at least 10 pages long about VoteCoin. Downloadable online, Free licence.
+
+### Code tutorial
+
+Bounty: 20,000 Vote Coins
+
+Requirement: MIT or GNU GPLv3 licenced vote coin code tutorial
+
+### Code solution
+
+Bounty: 100,000 Vote Coins
+
+Requirement: MIT or GNU GPLv3 licenced vote coin solution with extensions vote calculation
+
+### Twitter
+
+Bounty: 1 Vote Coin / follower; 100,000 max / person
+
+Requirement: Tag #VoteCoin #DAO #DecentralizedDemocracy and web [https://www.vote-coin.com/specifications/introduction](https://www.vote-coin.com/specifications/introduction)
+
+### Youtube
+
+Bounty: 100 Vote Coins / follower ; 100,000 max / person
+
+Requirement: Video about VoteCoin. Tag #VoteCoin #DAO #DecentralizedDemocracy and web [https://www.vote-coin.com/specifications/introduction](https://www.vote-coin.com/specifications/introduction)
+

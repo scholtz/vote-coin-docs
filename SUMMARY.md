@@ -13,3 +13,4 @@
 ## Vote Coin Tokenomics
 
 * [About vote coin](vote-coin-tokenomics/about-vote-coin.md)
+* [Engagement Programs](vote-coin-tokenomics/engagement-programs.md)
