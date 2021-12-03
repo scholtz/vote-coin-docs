@@ -14,3 +14,9 @@
 
 * [About vote coin](vote-coin-tokenomics/about-vote-coin.md)
 * [Engagement Programs](vote-coin-tokenomics/engagement-programs.md)
+
+## Solutions and tutorials
+
+* [Tutorials](solutions-and-tutorials/tutorials.md)
+* [Open source solutions](solutions-and-tutorials/open-source-solutions.md)
+* [Research studies](solutions-and-tutorials/research-studies.md)
