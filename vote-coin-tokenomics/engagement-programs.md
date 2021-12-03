@@ -6,6 +6,8 @@ description: Are you interested to earn Vote Coins?
 
 To claim your engagement program bounty, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScIhdH90AM0xoA3ISbHwea74YHlq-32I1QV4orUBd0Yc0x42w/viewform?usp=sf\_link).
 
+Please discuss engagement program in [official algorand forum](https://forum.algorand.org/t/vote-coin-engagement-program/5282).
+
 ### Academic paper
 
 Bounty: 100,000 Vote Coins
