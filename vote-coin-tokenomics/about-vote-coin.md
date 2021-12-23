@@ -4,7 +4,7 @@ coverY: 0
 
 # About vote coin
 
-![](../.gitbook/assets/logo200.png)
+![](<../.gitbook/assets/logo200 (1).png>)
 
 Purpose of vote coin token is motivate people to create working solutions using vote coin specifications.
 

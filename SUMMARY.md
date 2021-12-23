@@ -21,3 +21,8 @@
 * [Tutorials](solutions-and-tutorials/tutorials.md)
 * [Open source solutions](solutions-and-tutorials/open-source-solutions.md)
 * [Research studies](solutions-and-tutorials/research-studies.md)
+* [Page 1](solutions-and-tutorials/page-1.md)
+
+## Promotion materials
+
+* [Logos](promotion-materials/logos.md)
