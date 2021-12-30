@@ -5,10 +5,12 @@
 ## Specifications
 
 * [Introduction](specifications/introduction.md)
-* [Question](specifications/question.md)
-* [Cast vote](specifications/cast-vote.md)
-* [Extension 1 - Vote delegation](specifications/extension-1-vote-delegation.md)
-* [Extension 2 - Trusted list](specifications/extension-2-trusted-list.md)
+* [Vote result calculation](specifications/vote-result-calculation.md)
+* [Question message specification](specifications/question.md)
+* [Cast vote message specification](specifications/cast-vote.md)
+* [Result message specification](specifications/result.md)
+* [Extension 1 - Vote delegation message specification](specifications/extension-1-vote-delegation.md)
+* [Extension 2 - Trusted list message specification](specifications/extension-2-trusted-list.md)
 
 ## Vote Coin Tokenomics
 
