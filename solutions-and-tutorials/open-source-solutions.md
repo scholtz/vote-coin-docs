@@ -1,6 +1,12 @@
 # Open source solutions
 
+### Vote Coin Demo
 
+Public Vote Coin solution with allows interaction with vote coin system using QR codes.
+
+Web: [https://demo.vote-coin.com/](https://www.a-wallet.net)
+
+Source code: [https://github.com/scholtz/vote-coin-demo](https://github.com/scholtz/wallet/tree/master/src/pages/vote)
 
 ### AWallet
 
