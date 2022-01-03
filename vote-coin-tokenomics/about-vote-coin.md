@@ -12,7 +12,9 @@ By creating application, publishing video, writing blog post you can receive vot
 
 The tokenomics as well as changes in the specifications are managed by the voting using the vote coin protocol.
 
-Technical administrator is [Scholtz & Company, j.s.a. ](https://www.orsr.sk/vypis.asp?ID=439983\&SID=2\&P=1\&lan=en) ludovit@scholtz.sk
+Technical administrator is [Scholtz & Company, j.s.a. ](https://www.orsr.sk/vypis.asp?ID=439983\&SID=2\&P=1\&lan=en)&#x20;
+
+Contact: info@vote-coin.com
 
 MainNet ASA ID: [452399768](https://algoexplorer.io/asset/452399768)
 
