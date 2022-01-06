@@ -18,6 +18,12 @@ Source code: [https://github.com/scholtz/wallet/tree/master/src/pages/vote](http
 
 Video: [https://www.youtube.com/watch?v=SgT4ibB67qs](https://www.youtube.com/watch?v=SgT4ibB67qs)
 
+### Vote Coin Discord bot
+
+[https://discord.gg/mPW36G6xqn](https://discord.gg/mPW36G6xqn)
+
+[https://github.com/hilary3211/vote\_coin-chatbot](https://github.com/hilary3211/vote\_coin-chatbot)
+
 ### More solution
 
 Please check out our [engagement program](../vote-coin-tokenomics/engagement-programs.md#code-solution) for more information.
