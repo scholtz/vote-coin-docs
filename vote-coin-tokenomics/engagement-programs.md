@@ -6,7 +6,7 @@ description: Are you interested to earn Vote Coins?
 
 To claim your engagement program bounty, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScIhdH90AM0xoA3ISbHwea74YHlq-32I1QV4orUBd0Yc0x42w/viewform?usp=sf\_link).
 
-Please discuss engagement program in [official algorand forum](https://forum.algorand.org/t/vote-coin-engagement-program/5282).
+Please discuss engagement program in [official algorand forum](https://forum.algorand.org/t/vote-coin-engagement-program/5282) or on the official [discord](https://discord.gg/nJ8waHWTwE) channel.
 
 ### Academic paper
 

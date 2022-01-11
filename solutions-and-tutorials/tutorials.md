@@ -1,6 +1,6 @@
 # Tutorials
 
-There are no explicit tutorials right now. Be first one to get the bounty from our engagement program.
+How to use Vote Coin Bot on the discord is shown in the video [https://www.youtube.com/watch?v=M4MKaTS2LBs](https://www.youtube.com/watch?v=M4MKaTS2LBs)
 
 ### More tutorials
 
