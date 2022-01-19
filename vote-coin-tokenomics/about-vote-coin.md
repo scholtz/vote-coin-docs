@@ -29,3 +29,22 @@ Vote coin is listed on TinyMan
 Pair Vote/**Algo**: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
 
 Pair Vote/**USDC**: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
+
+### Road map
+
+Q2 2021 - Project initiation on algorand official forum
+
+Q3 2021 - First demo application - Encode summer algorand hackathon winner
+
+Q4 2021 - Engagement program launched
+
+Q4 2021 - Encode accelerator program start
+
+Q4 2021 - Voting specification update - Results calculation message
+
+Q1 2022 - Encode accelerator program end
+
+Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
+
+Q2 2022 - Voting specification update - Encrypted voting
+
