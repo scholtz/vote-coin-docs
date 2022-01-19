@@ -22,3 +22,10 @@ Technical administrator is [Scholtz & Company, j.s.a. ](https://www.orsr.sk/vypi
 
 Contact: info@vote-coin.com
 
+### Buy vote coin
+
+Vote coin is listed on TinyMan
+
+Pair Vote/**Algo**: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
+
+Pool Vote/**USDC**: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
