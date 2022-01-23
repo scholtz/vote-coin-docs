@@ -24,7 +24,7 @@ Contact: info@vote-coin.com
 
 ### Buy vote coin
 
-Vote coin is listed on TinyMan
+Vote coin is listed on TinyMan - [https://tinychart.org/asset/452399768](https://tinychart.org/asset/452399768)
 
 Pair Vote/**Algo**: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
 
