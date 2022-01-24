@@ -30,6 +30,10 @@ Pair Vote/**Algo**: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAG
 
 Pair Vote/**USDC**: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
 
+### Public announcments
+
+In regards of fair and equal distribution of news, the announcments are done through #announcment channel in official [Discord channel](https://discord.gg/nJ8waHWTwE).
+
 ### Road map
 
 * [x] Q2 2021 - Project initiation on algorand official forum
