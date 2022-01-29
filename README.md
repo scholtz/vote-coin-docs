@@ -7,6 +7,8 @@ coverY: 0
 
 # Vote Coin
 
+{% embed url="https://app.vote-coin.com" %}
+
 {% embed url="https://www.youtube.com/watch?v=SgT4ibB67qs" %}
 
 Vote Coin Values
