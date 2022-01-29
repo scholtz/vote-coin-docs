@@ -26,9 +26,16 @@ Contact: info@vote-coin.com
 
 Vote coin is listed on TinyMan - [https://tinychart.org/asset/452399768](https://tinychart.org/asset/452399768)
 
-Pair Vote/**Algo**: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
+Pair $Vote/**Algo**:&#x20;
 
-Pair Vote/**USDC**: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
+Swap Now : [https://app.tinyman.org/#/swap?asset\_in=0\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=0\&asset\_out=452399768)
+
+Liquidity pool: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
+
+Pair Vote/**USDC**: \
+Swap Now : [https://app.tinyman.org/#/swap?asset\_in=31566704\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=31566704\&asset\_out=452399768)
+
+Liquidity pool: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
 
 ### Public announcments
 
