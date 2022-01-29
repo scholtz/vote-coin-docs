@@ -17,6 +17,7 @@
 * [About vote coin](vote-coin-tokenomics/about-vote-coin.md)
 * [Engagement Programs](vote-coin-tokenomics/engagement-programs.md)
 * [Join the community](vote-coin-tokenomics/contact-us.md)
+* [Documents](vote-coin-tokenomics/documents.md)
 
 ## Solutions and tutorials
 
