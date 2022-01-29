@@ -7,7 +7,9 @@ coverY: 0
 
 # Vote Coin
 
-{% embed url="https://app.vote-coin.com" %}
+| MainNet application                                     | TestNet application                                       |
+| ------------------------------------------------------- | --------------------------------------------------------- |
+| [https://app.vote-coin.com/](https://app.vote-coin.com) | [https://demo.vote-coin.com/](https://demo.vote-coin.com) |
 
 {% embed url="https://www.youtube.com/watch?v=SgT4ibB67qs" %}
 
