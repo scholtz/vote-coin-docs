@@ -17,6 +17,9 @@ Vote Coin Values
 2. Cost effeciency
 3. Knowledge based wisdom
 
+## Staking
+Everyone who owns at least 1000 $vote receives 10% pa each hour
+
 {% embed url="https://youtu.be/D8EMw8ddnyw" %}
 Vote Coin in 2 minutes
 {% endembed %}
