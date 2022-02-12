@@ -18,7 +18,10 @@ Vote Coin Values
 3. Knowledge based wisdom
 
 ## Staking
-Everyone who owns at least 1000 $vote receives 10% pa each hour
+
+Everyone who owns at least 1000 $vote receives 10% p.a. with community staking program.
+
+TinyMan liquidity providers are incentivized with 50% p.a. staking program.
 
 {% embed url="https://youtu.be/D8EMw8ddnyw" %}
 Vote Coin in 2 minutes
