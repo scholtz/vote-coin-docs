@@ -18,5 +18,10 @@ Disclaimer. This program is not legally bound, and may finish any time. Purpose 
 
 How does it calculate? Tinyman provides shares of the pool using pool created ASA, for example [553838965](https://algoexplorer.io/asset/553838965) and [553854066](https://algoexplorer.io/asset/553854066). Each hour we check balance of each holder at these pools which is the share of the pool. For example account ABC has share 1%. At the same round, the pool has for example 1 000 000 $vote on its account, so the account ABC owns 10 000 $vote. From the 10 000 $vote, account ABC will receive 50% pa in hourly base.&#x20;
 
+To add a liquidity to the TinyMan pool, select pool which you want to use and follow TinyMan basic workflow.&#x20;
+
+* [$vote/Algo pool](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
+* [$vote/USDc pool](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
+
 
 
