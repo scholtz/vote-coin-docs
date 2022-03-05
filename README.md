@@ -11,17 +11,21 @@ coverY: 0
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | [https://app.vote-coin.com/](https://app.vote-coin.com) | [https://demo.vote-coin.com/](https://demo.vote-coin.com) |
 
-Vote Coin Values
+### Vote Coin Values
 
 1. Auditable results
 2. Cost effeciency
 3. Knowledge based wisdom
+
+If you like the project, upvote us at algo dir: [https://ecosystem.algorand.com/project/vote-coin](https://ecosystem.algorand.com/project/vote-coin)
 
 ## Staking
 
 Everyone who owns at least 1000 $vote receives 10% p.a. with community staking program.
 
 TinyMan liquidity providers are incentivized with 50% p.a. staking program.
+
+### 2 minutes pitch video
 
 {% embed url="https://youtu.be/D8EMw8ddnyw" %}
 Vote Coin in 2 minutes
