@@ -40,6 +40,11 @@ Swap Now : [https://app.tinyman.org/#/swap?asset\_in=31566704\&asset\_out=452399
 
 Liquidity pool: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
 
+Pair Vote/**USDT**: \
+Swap Now : [https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=452399768)
+
+Liquidity pool: [https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE](https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE)
+
 ### Public announcments
 
 In regards of fair and equal distribution of news, the announcments are done through #announcment channel in official [Discord channel](https://discord.gg/nJ8waHWTwE).
@@ -51,7 +56,7 @@ In regards of fair and equal distribution of news, the announcments are done thr
 * [x] Q4 2021 - Engagement program launched
 * [x] Q4 2021 - Encode accelerator program start
 * [x] Q4 2021 - Voting specification update - Results calculation message
-* [ ] Q1 2022 - Encode accelerator program end
+* [x] Q1 2022 - Encode accelerator program end
 * [ ] Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
 * [ ] Q2 2022 - Voting specification update - Encrypted voting
 
