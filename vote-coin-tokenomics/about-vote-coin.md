@@ -46,7 +46,7 @@ Swap Now : [https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=45239976
 Liquidity pool: [https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE](https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE)
 
 Pair Vote/**STBL**: \
-Swap Now : [https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=465865291](https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=465865291)
+Swap Now : [https://app.tinyman.org/#/swap?asset\_in=465865291\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=465865291\&asset\_out=452399768)
 
 Liquidity pool: [https://app.tinyman.org/#/pool/KSHHXT7NWIY5D2JEYLNU65NU57J56ZVXEGWZSDVBF3X7HJCSL4YUEOO6ZU](https://app.tinyman.org/#/pool/KSHHXT7NWIY5D2JEYLNU65NU57J56ZVXEGWZSDVBF3X7HJCSL4YUEOO6ZU)
 
