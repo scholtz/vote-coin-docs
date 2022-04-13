@@ -43,6 +43,14 @@ Json data MUST comply with following json schema:
                 "CRID3AHJGGVE75UTDO5GI7PXM6PUD6WXB7BTAD3IPWFTMUXUKHDA"
             ]
         },
+        "e": {
+            "$id": "#/properties/encryption-private-key",
+            "type": "string",
+            "title": "Mnemonic of the encyption account for public voting validation",
+            "examples": [
+                {"fuel flock song credit cloud collect security danger knife fluid analyst roast short pizza more kingdom copy judge leave resist sock change wheel able story"}
+            ],
+        },
         "r": {
             "$id": "#/properties/r",
             "type": "object",
