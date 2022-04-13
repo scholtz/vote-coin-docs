@@ -1,10 +1,10 @@
-# Question
+### Question
 
 Question is the message stored on the blockchain.
 
 The blockchain message MUST be self signed message, with amount 702 of basic tokens with specific note structure described below.
 
-Question starts with `avote-question/v2:j` according to ARC-0002, following the json data.
+Question starts with ```avote-question/v2:j``` according to ARC-0002, following the json data.
 
 If json data is not valid according to JSON standard, the question MUST NOT be shown to the users.
 
@@ -87,6 +87,18 @@ Json data MUST comply with following json schema:
               "community"
           ]
       },
+      "e": {
+          "$id": "#/properties/encryptionAddress",
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50,
+          "title": "Encryption address",
+          "description": "The encryption address for encyption purposes according to Extension 3 of the specifications.",
+          "default": "",
+          "examples": [
+              "56N75BOUSBSJALOWRQMJ7BU5JZHTEQCJP2PXHUCUXVOQJ4FPIKISV3UQB4"
+          ]
+      },
       "o": {
           "$id": "#/properties/o",
           "type": "object",
@@ -107,10 +119,8 @@ Json data MUST comply with following json schema:
 }
 ```
 
-Example:
 
+Example:
 ```
 avote-question/v1:j{"t":"Best project","q":"Decide which project is the best\nA - AAA\nB - BBB\nC - CCC","max":4410,"category":"community","o":{"A":"AAA","B":"BBB","C":"CCC"}}
 ```
-
-\
