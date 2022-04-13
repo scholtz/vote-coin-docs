@@ -11,6 +11,7 @@
 * [Result message specification](specifications/result.md)
 * [Extension 1 - Vote delegation message specification](specifications/extension-1-vote-delegation.md)
 * [Extension 2 - Trusted list message specification](specifications/extension-2-trusted-list.md)
+* [Extension 3 - Encrypted voting](specifications/extension-3-encrypted-voting.md)
 
 ## Vote Coin Tokenomics
 
