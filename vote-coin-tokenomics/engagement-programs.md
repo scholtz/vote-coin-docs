@@ -28,7 +28,7 @@ Requirement: MIT or GNU GPLv3 licenced vote coin solution with extensions vote c
 
 ### Twitter
 
-Bounty: 1 Vote Coin / follower; 10,000 max / person
+Bounty: 1 Vote Coin / 10 followers; 5,000 max / person
 
 Requirement: Tag #VoteCoin #DAO #DecentralizedDemocracy and web [https://www.vote-coin.com/specifications/introduction](https://www.vote-coin.com/specifications/introduction)
 
