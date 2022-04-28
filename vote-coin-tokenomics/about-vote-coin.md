@@ -62,6 +62,6 @@ In regards of fair and equal distribution of news, the announcments are done thr
 * [x] Q4 2021 - Encode accelerator program start
 * [x] Q4 2021 - Voting specification update - Results calculation message
 * [x] Q1 2022 - Encode accelerator program end
-* [ ] Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
-* [ ] Q2 2022 - Voting specification update - Encrypted voting
+* [x] Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
+* [x] Q2 2022 - Voting specification update - Encrypted voting
 
