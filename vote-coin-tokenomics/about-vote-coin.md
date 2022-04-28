@@ -22,34 +22,6 @@ Technical administrator is [Scholtz & Company, j.s.a. ](https://www.orsr.sk/vypi
 
 Contact: info@vote-coin.com
 
-### Buy vote coin
-
-Vote coin is listed on&#x20;
-
-* AlgoDex -  [https://app.algodex.com/trade/452399768](https://t.co/fbOSSMGEg7)
-* TinyMan - [https://tinychart.org/asset/452399768](https://tinychart.org/asset/452399768)
-
-Pair $Vote/**Algo**:&#x20;
-
-Swap Now : [https://app.tinyman.org/#/swap?asset\_in=0\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=0\&asset\_out=452399768)
-
-Liquidity pool: [https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4](https://app.tinyman.org/#/pool/TTLNPCGSAMCASHWVJ5H3NTOATWAGMUTRWGY22TNHDRMQHVDSZY2XJ6RYV4)
-
-Pair Vote/**USDC**: \
-Swap Now : [https://app.tinyman.org/#/swap?asset\_in=31566704\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=31566704\&asset\_out=452399768)
-
-Liquidity pool: [https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY](https://app.tinyman.org/#/pool/RM4K3MDKZ4YXG23CRVP4ITFVHXNAWXMQ3R4GNLMNCZG2XUGBQCHXC7J6XY)
-
-Pair Vote/**USDT**: \
-Swap Now : [https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=312769\&asset\_out=452399768)
-
-Liquidity pool: [https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE](https://app.tinyman.org/#/pool/4GKQRG3AWGSDW2MVEJ3VS6YGDTW4NVM5F5HI27NZKDZSKQ2RWSOEGPEECE)
-
-Pair Vote/**STBL**: \
-Swap Now : [https://app.tinyman.org/#/swap?asset\_in=465865291\&asset\_out=452399768](https://app.tinyman.org/#/swap?asset\_in=465865291\&asset\_out=452399768)
-
-Liquidity pool: [https://app.tinyman.org/#/pool/KSHHXT7NWIY5D2JEYLNU65NU57J56ZVXEGWZSDVBF3X7HJCSL4YUEOO6ZU](https://app.tinyman.org/#/pool/KSHHXT7NWIY5D2JEYLNU65NU57J56ZVXEGWZSDVBF3X7HJCSL4YUEOO6ZU)
-
 ### Public announcements
 
 In regards of fair and equal distribution of news, the announcments are done through #announcment channel in official [Discord channel](https://discord.gg/nJ8waHWTwE).
