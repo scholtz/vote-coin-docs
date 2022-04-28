@@ -54,14 +54,4 @@ Liquidity pool: [https://app.tinyman.org/#/pool/KSHHXT7NWIY5D2JEYLNU65NU57J56ZVX
 
 In regards of fair and equal distribution of news, the announcments are done through #announcment channel in official [Discord channel](https://discord.gg/nJ8waHWTwE).
 
-### Road map
-
-* [x] Q2 2021 - Project initiation on algorand official forum
-* [x] Q3 2021 - First demo application - Encode summer algorand hackathon winner
-* [x] Q4 2021 - Engagement program launched
-* [x] Q4 2021 - Encode accelerator program start
-* [x] Q4 2021 - Voting specification update - Results calculation message
-* [x] Q1 2022 - Encode accelerator program end
-* [x] Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
-* [x] Q2 2022 - Voting specification update - Encrypted voting
 
