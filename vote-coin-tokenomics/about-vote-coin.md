@@ -26,4 +26,12 @@ Contact: info@vote-coin.com
 
 In regards of fair and equal distribution of news, the announcments are done through #announcment channel in official [Discord channel](https://discord.gg/nJ8waHWTwE).
 
+### Vote coin in curculation
 
+API Endpoints to check vote coins in circulation, total issued coins, and accounts held by Vote Coin DAO
+
+- https://api.vote-coin.com/Price/VoteCoinCirculationSupply
+- https://api.vote-coin.com/Price/TotalCirculationSupply
+- https://api.vote-coin.com/Price/VoteCoinDAOAddresses
+
+The endpoints list uint64 number in base units. To format specific numbers please note vote coin has 6 decimals.
