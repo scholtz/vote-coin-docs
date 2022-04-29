@@ -7,8 +7,6 @@ coverY: 0
 
 # Vote Coin
 
-## 2 minutes pitch video
-
 {% embed url="https://youtu.be/D8EMw8ddnyw" %}
 Vote Coin in 2 minutes
 {% endembed %}
