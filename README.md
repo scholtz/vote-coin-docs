@@ -7,11 +7,19 @@ coverY: 0
 
 # Vote Coin
 
+## 2 minutes pitch video
+
+{% embed url="https://youtu.be/D8EMw8ddnyw" %}
+Vote Coin in 2 minutes
+{% endembed %}
+
+## Prod & Demo apps
+
 | MainNet application                                     | TestNet application                                       |
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | [https://app.vote-coin.com/](https://app.vote-coin.com) | [https://demo.vote-coin.com/](https://demo.vote-coin.com) |
 
-### Vote Coin Values
+## Vote Coin Values
 
 1. Auditable results
 2. Cost effeciency
@@ -25,8 +33,3 @@ Everyone who owns at least 1000 $vote receives 10% p.a. with community staking p
 
 TinyMan liquidity providers are incentivized with 50% p.a. staking program.
 
-### 2 minutes pitch video
-
-{% embed url="https://youtu.be/D8EMw8ddnyw" %}
-Vote Coin in 2 minutes
-{% endembed %}
