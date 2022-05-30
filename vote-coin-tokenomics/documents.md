@@ -1,5 +1,11 @@
 # Documents
 
+
+
+## 30th May 2022: VoteCoin DeFi TVL Report
+
+[Google spreadsheet report](https://docs.google.com/spreadsheets/d/1iDWgp3NrXqmxEYz_Pnw49XtEJSDHpCoAczaFaoc3r3g/edit?usp=sharing)
+
 ## 15th May 2022: VoteCoin DeFi TVL Report
 
 [Google spreadsheet report](https://docs.google.com/spreadsheets/d/1UDZwOTHXqG9cTkfenMjFeoYQyya7j4zsaA0ymQx8TA8/edit?usp=sharing)
