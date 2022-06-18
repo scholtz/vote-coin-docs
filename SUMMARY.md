@@ -18,7 +18,6 @@
 * [About vote coin](vote-coin-tokenomics/about-vote-coin.md)
 * [Roadmap](vote-coin-tokenomics/roadmap.md)
 * [Trade vote coin](vote-coin-tokenomics/trade-vote-coin.md)
-* [Engagement Programs](vote-coin-tokenomics/engagement-programs.md)
 * [Staking program](vote-coin-tokenomics/staking-program.md)
 * [Join the community](vote-coin-tokenomics/contact-us.md)
 * [Documents](vote-coin-tokenomics/documents.md)

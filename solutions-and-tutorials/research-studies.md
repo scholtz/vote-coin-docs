@@ -4,4 +4,4 @@ There are no studies right now. Be first one to get the bounty from our engageme
 
 ### More research papers
 
-Please check out our [engagement program](../vote-coin-tokenomics/engagement-programs.md#academic-paper) for more information.
+Please check out our [engagement program](broken-reference) for more information.

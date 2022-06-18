@@ -10,4 +10,4 @@ How to use Vote Coin Bot on the discord is shown in the video [https://www.youtu
 
 ### More tutorials
 
-Please check out our [engagement program](../vote-coin-tokenomics/engagement-programs.md#code-tutorial) for more information.
+Please check out our [engagement program](broken-reference) for more information.
