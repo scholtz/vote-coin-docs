@@ -2,11 +2,25 @@
 
 ### Vote Coin Demo
 
-Public Vote Coin solution with allows interaction with vote coin system using QR codes.
+Public Vote Coin solution with allows interaction with vote coin system. Allows encrypted voting, voting delegation and more.
 
 Web: [https://demo.vote-coin.com/](https://demo.vote-coin.com/)&#x20;
 
 Source code: [https://github.com/scholtz/vote-coin-demo](https://github.com/scholtz/vote-coin-demo)
+
+### Vote Coin API
+
+Open source VoteCoin API.
+
+Web: [https://api.vote-coin.com/swagger/index.html](https://api.vote-coin.com/swagger/index.html)
+
+Source code: [https://github.com/scholtz/VoteCoinApi](https://github.com/scholtz/VoteCoinApi)&#x20;
+
+### Vote Coin Indexer
+
+Open source VoteCoin indexer which feeds data to hasura GraphQL.
+
+Source code: [https://github.com/scholtz/vote-coin-indexer](https://github.com/scholtz/vote-coin-indexer)
 
 ### AWallet
 
