@@ -38,6 +38,3 @@ Video: [https://www.youtube.com/watch?v=SgT4ibB67qs](https://www.youtube.com/wat
 
 [https://github.com/hilary3211/vote\_coin-chatbot](https://github.com/hilary3211/vote\_coin-chatbot)
 
-### More solution
-
-Please check out our [engagement program](broken-reference) for more information.
