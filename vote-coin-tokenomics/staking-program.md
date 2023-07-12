@@ -31,7 +31,8 @@ To add a liquidity to the AMM pool, select pool which you want to use and follow
 * [Pact.Fi Vote/Algo](https://app.pact.fi/add-liquidity/1075389128)
 * [Pact.FI Vote/USDC](https://app.pact.fi/add-liquidity/1075409914)
 * [Pact.Fi Vote/BTC](https://app.pact.fi/add-liquidity/1075404856)
-* [Pact.Fi Vote/GAlgo](https://app.pact.fi/add-liquidity/1078306383)
+* [Pact.Fi Vote/gAlgo](https://app.pact.fi/add-liquidity/1078306383)
+* [Pact.Fi Vote/goUSD](https://app.pact.fi/add-liquidity/1140609824)
 
 #### 30 % APY pools
 
