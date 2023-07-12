@@ -9,7 +9,9 @@
 * [x] Q1 2022 - Web focused on community DAOs voting , start promo of auditing services
 * [x] Q2 2022 - Voting specification update - Encrypted voting
 * [x] Q2 2022 - Encode DAO Hack winner
-* [X] Q3 2022 - Web app improvements for DAO community building
-* [ ] Q4 2022 - Voting specification update - NFT Extension - eligible token list
-* [ ] Q1 2023 - Voting specification update - DeFi token unlock
-* [ ] Q1 2023 - Voting specification update - Multichain voting
+* [x] Q3 2022 - Web app improvements for DAO community building
+* [x] Q2 2023 - xGov grant request - [GitHub tools](https://github.com/algorandfoundation/xGov/pull/24/files)
+* [ ] Q3 2022 - Open source tools update - GitHub tools for github management by onchain vote
+* [ ] Q3 2022 - Voting specification update - NFT Extension - eligible token list
+* [ ] Q3 2023 - Voting specification update - DeFi token unlock
+* [ ] Q4 2023 - Voting specification update - Multichain voting
