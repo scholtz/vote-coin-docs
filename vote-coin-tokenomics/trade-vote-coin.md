@@ -33,3 +33,11 @@ gAlgo/Vote
 Vote coin testnet token can be used for testing purposes in the vote coin [demo application](https://demo.vote-coin.com).
 
 <table><thead><tr><th width="159">Service provider</th><th width="150">Buy link</th><th>Sell link</th><th>Additional info</th></tr></thead><tbody><tr><td>Pact.Fi</td><td><a href="https://testnet.pact.fi/swap?pair=ALGO0/VOTE+COIN48806985(1)">Algo -> Vote</a></td><td><a href="https://testnet.pact.fi/swap?pair=-ALGO0/VOTE+COIN48806985(1)">Vote -> Algo</a></td><td><a href="https://testnet.pact.fi/add-liquidity/88280437">Add liqudity</a></td></tr><tr><td>AlgoDex</td><td><a href="https://testnet.algodex.com/trade/48806985">Limit order</a></td><td><a href="https://testnet.algodex.com/trade/48806985">Limit order</a></td><td></td></tr></tbody></table>
+
+### Liquidity support
+
+Vote Coin token liquidity increase has been performed with support from the Algorand Foundation xGov Grants Program - [xgov#81](https://github.com/algorandfoundation/xGov/blob/main/Proposals/xgov-81.md).
+
+Current state of the value of the assets from this program can be tracked at [Vestige](https://vestige.fi/wallet/VOTEMK4BPMNSCIKDC5XRYMXCPFJA7OFIG27N7PQIOVFTTPIROOBI4H3JFI).
+
+All assets are held and can be monitored by account: [VOTE...3JFI](https://allo.info/account/VOTEMK4BPMNSCIKDC5XRYMXCPFJA7OFIG27N7PQIOVFTTPIROOBI4H3JFI/txns/).
