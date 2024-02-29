@@ -6,7 +6,7 @@ Each hour everyone who owns at least 1000 $vote in basic account, will receive *
 
 Disclaimer. This program is not legally bound, and may finish any time. Purpose of the program is marketing campaign.
 
-Vote coins distributed from this program originates from the staking program pool: [https://algoexplorer.io/address/VOTESZMB66LO6CGVREQENOKIBMW4JG2BA7HJUXZBAYDLE6RKM2CQ2YI5EI](https://algoexplorer.io/address/VOTESZMB66LO6CGVREQENOKIBMW4JG2BA7HJUXZBAYDLE6RKM2CQ2YI5EI)
+Vote coins distributed from this program originates from the staking program pool: [https://allo.info/account/VOTESZMB66LO6CGVREQENOKIBMW4JG2BA7HJUXZBAYDLE6RKM2CQ2YI5EI/txns](https://allo.info/account/VOTESZMB66LO6CGVREQENOKIBMW4JG2BA7HJUXZBAYDLE6RKM2CQ2YI5EI/txns)
 
 Announcments about change in staking program are done primarly through the discord: [https://discord.gg/tzRcBHDSXt](https://discord.gg/tzRcBHDSXt)
 
