@@ -31,15 +31,22 @@ To add a liquidity to the AMM pool, select pool which you want to use and follow
 * [Pact.Fi Vote/Algo](https://app.pact.fi/add-liquidity/1075389128)
 * [Pact.FI Vote/USDC](https://app.pact.fi/add-liquidity/1075409914)
 * [Pact.Fi Vote/BTC](https://app.pact.fi/add-liquidity/1075404856)
-* [Pact.Fi Vote/gAlgo](https://app.pact.fi/add-liquidity/1078306383)
 * [Pact.Fi Vote/goUSD](https://app.pact.fi/add-liquidity/1140609824)
 * [Pact.Fi Vote/Stasis EUR](https://app.pact.fi/add-liquidity/1526758875)
+
+#### 50 % APY pools from interest bearing tokens
+
+* [Pact.Fi Vote/aAlgo](https://app.pact.fi/add-liquidity/2680092237)
+* [Pact.Fi Vote/tAlgo](https://app.pact.fi/add-liquidity/2680087789)
+* [Pact.Fi Vote/xAlgo](https://app.pact.fi/add-liquidity/2680084315)
+* [Pact.Fi Vote/mAlgo](https://app.pact.fi/add-liquidity/2680170037)
 
 #### 30 % APY pools
 
 * [TinyMan Vote/Algo](https://app.tinyman.org/#/pool/GASYYNLRCSNPPIL6WQJNBP3BTEOYCGDLQZWPHF2IKVNDIWP7RNIPSBKM5Y/add-liquidity)
 * [TinyMan Vote/USDC](https://app.tinyman.org/#/pool/2FN4QARVV5HWHS4E43PBEKOA6XE3DF2PEO23ICLQR5OTXMP7NRPAJDIMA4/add-liquidity)
 * [TinyMan Vote/USDT](https://app.tinyman.org/#/pool/HYHZS7YIXM72QR5PUIV6MIEYVP2HOP4BLIQ7NP2GSIUYOS4GVAYYCVMZ3Y/add-liquidity)
+* [TinyMan Vote/tAlgo](https://app.tinyman.org/pool/TKGPKLN6N7TYIUSQ4URCZEMNHUKPNE5XHKEFC6ILW7MIKGGRW6XEFJ7EWE/add-liquidity)
 
 #### 20 % APY pools
 
